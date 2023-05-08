@@ -1,0 +1,4 @@
+fastdtw
+gym[all]
+numpy
+torch
